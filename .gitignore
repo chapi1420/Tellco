@@ -1,0 +1,59 @@
+ ../report/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../Links/
+        ../../../Muse Hub/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.0.regtrans-ms
+        ../../../NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.1.regtrans-ms
+        ../../../NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.2.regtrans-ms
+        ../../../NTUSER.DAT{2ad838bb-efea-11ee-a54d-000d3a94eaa1}.TxR.blf
+        ../../../NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+        ../../../NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+        ../../../OneDrive/
+        ../../../PycharmProjects/
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Untitled.ipynb
+        ../../../Untitled1.ipynb
+        ../../../Videos/
+        ../../../WPS Cloud Files/
+        ../../../anaconda3/
+        ../../../env/
+        ../../../moonlit/
+        ../../../myenv/
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
+        ../../../package.json
+        ../../../token
+# Anaconda/Python specific
+.conda/
+anaconda/
+envs/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+.env
+.venv
+env/
+venv/
+ENV/
+# Anaconda/Python specific
+.conda/
+anaconda/
+envs/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+.env
+.venv
+env/
+venv/
+ENV/
