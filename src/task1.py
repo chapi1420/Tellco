@@ -3,7 +3,7 @@ import pandas as pd
 
 # Database connection details
 db_user = "postgres"
-db_password = "30251421"  # Replace with your database password
+db_password = "30251421"  
 db_host = "localhost"
 db_port = "5432"
 db_name = "telecom"
